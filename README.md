@@ -3,5 +3,5 @@
 ## Установка
 - [Python](https://www.python.org/downloads/)
 
-### Использование
+### Запуск
     python rippingbase.py
